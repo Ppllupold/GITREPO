@@ -1,3 +1,3 @@
-a = 5
-b = 6
-c = 7
+class Person:
+    def __init__(self, name):
+        self.name = name
